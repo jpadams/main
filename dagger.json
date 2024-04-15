@@ -1,0 +1,12 @@
+{
+  "name": "main",
+  "sdk": "go",
+  "dependencies": [
+    {
+      "name": "dep",
+      "source": "dep"
+    }
+  ],
+  "source": ".",
+  "engineVersion": "v0.11.0"
+}
